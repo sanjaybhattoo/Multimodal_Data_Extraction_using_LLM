@@ -8,12 +8,14 @@ A Python tool that automatically extracts tables from websites using Selenium fo
 
 # Output : 
 extracted_data/
-├── csv_output/
-│   ├── table_1.csv
-│   ├── table_2.csv
-│   └── ...
-├── images/
-│   ├── img_name_123abc.png
-│   ├── img_name_456def.jpg
-│   └── ...
-└── screenshot.png
+csv_output/
+  table_1.csv
+  table_2.csv
+  ...
+
+images/
+  img_name_123abc.png
+  img_name_456def.jpg
+   ...
+ 
+ screenshot.png
