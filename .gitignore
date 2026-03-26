@@ -1,0 +1,35 @@
+# API Keys
+.env
+.env.local
+.env.*.local
+*.key
+secrets.json
+
+
+extracted_data/
+csv_output/
+images/
+*.csv
+
+# Screenshots
+*.png
+screenshot.png
+screenshot_*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
